@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">MapCodeProject</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="top_left_input_title">latitude</string>
+    <string name="top_right_input_title">longitude</string>
+    <string name="once_mesh_title">一次メッシュ</string>
+    <string name="secondary_mesh_title">二次メッシュ</string>
+    <string name="tertiary_mesh_title">三次メッシュ</string>
+    <string name="half_region_title">1/2地域メッシュ</string>
+    <string name="make_mesh">メッシュ表示</string>
 </resources>
